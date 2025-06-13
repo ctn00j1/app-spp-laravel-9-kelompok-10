@@ -4,10 +4,6 @@ Aplikasi pembayaran SPP yang kami buat dengan tujuan tugas pemprograman web. Dal
 
 Aplikasi pembayaran SPP saya juga dilengkapi dengan fitur laporan pembayaran SPP, yang memungkinkan para admin memantau dan melacak pembayaran SPP yang telah dilakukan. Dalam laporan ini, terdapat informasi detail tentang tanggal pembayaran, jumlah yang dibayarkan, dan status pembayaran. Dengan fitur ini, para siswa dan orang tua dapat dengan mudah mengakses catatan pembayaran SPP mereka dan memastikan bahwa pembayaran SPP telah dilakukan dengan benar. Dalam rangka meningkatkan kualitas layanan.
 
-kelompok 10:
-solihin
-ravi
-rikki
 
 ## Teknologi
 1. [Laravel 9](https://laravel.com/)
